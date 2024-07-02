@@ -1,0 +1,8 @@
+README.md
+setup.py
+Module_9_Exercises.egg-info/PKG-INFO
+Module_9_Exercises.egg-info/SOURCES.txt
+Module_9_Exercises.egg-info/dependency_links.txt
+Module_9_Exercises.egg-info/top_level.txt
+packagedirectory/__init__.py
+packagedirectory/mymodule.py
